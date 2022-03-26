@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartekSwiderski/goit-node-01.git"
+  },
+  "keywords": [],
+  "author": "Bartek <bartekzg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartekSwiderski/goit-node-01/issues"
+  },
+  "homepage": "https://github.com/BartekSwiderski/goit-node-01#readme",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
